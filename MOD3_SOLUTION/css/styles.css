@@ -1,0 +1,58 @@
+
+
+/** HEADER **/
+#header-nav {
+	background-color:#D7BDE2;
+	border-radius:0;
+	padding:10px;
+}
+.navbar-brand h1{
+	position: absolute; 
+	top:0; left:0
+	margin:0;
+	color:#FFFFFF;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid #76D7C4;
+}
+#nav-list a {
+  text-align: center;
+  color: #FFFFFF;
+  font-size: 1.2em;
+  background-color: #FFA07A;
+}
+#nav-list a:hover {
+  background: #FA8072;
+}
+
+#menu-list {
+	background-color: #FFA07A;
+	color:#FFFFFF;
+}
+
+/* unvisited link */
+a:link {
+  color: #CD5C5C;
+ 
+}
+
+/* visited link */
+a:visited {
+  color: #CD5C5C
+  
+}
+
+/* mouse over link */
+a:hover {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* selected link */
+a:active {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
